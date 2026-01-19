@@ -112,5 +112,6 @@ Since this project is optimized for Google Colab, no local installation is requi
 Charan E
 
 Location: bileshivale bangalore,karnataka
+
 Focus: Machine Learning, Python Development
 
